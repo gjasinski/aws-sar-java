@@ -1,0 +1,11 @@
+{
+  "exisitingLogs": "true",
+  "detail":{
+  	"eventName": "CreateLogGroup",
+	  "requestParameters":{
+		"logGroupName": "grzegorz_group_name",
+		"tags": "tag1, tag2"
+  	},
+	"instance-id": "myInstanceId"
+  }
+}

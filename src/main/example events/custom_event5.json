@@ -1,0 +1,10 @@
+{
+	"response": {
+		"issueTokens": false,
+		"failAuthentication": false,
+		"challangeName": "CUSTOM_CHALLENGE"
+	},
+	"request":{
+		"session": []
+	}
+}

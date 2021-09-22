@@ -1,0 +1,5 @@
+{
+    "DLQName": "my-dlq",
+    "MaxMessageCount": 100
+}
+
