@@ -1,1 +1,1 @@
-# aws-sar-java
+# AWS Serverless Application Repository test framework
